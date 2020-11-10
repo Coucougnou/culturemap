@@ -1,3 +1,4 @@
+
 <template>
     <v-container grid-list-lg>
         <v-layout row>
@@ -140,4 +141,7 @@ export default {
 </script>
 
 <style scoped>
+
+
+
 </style>
